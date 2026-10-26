@@ -9,7 +9,6 @@ for x in range(1, 6):
 
 
 
-
 ## This Program is meant for me to get to understand how the while-loop works working with numbers, counting from (1 to 3)
 
 count = 1
